@@ -21,10 +21,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Hello, I'm Mike Villagomez, a passionate web developer from Union City, New Jersey. I am currently pursuing a Bachelor of Business and Information Systems at the New Jersey Institute of Technology, where I'm honing my technical skills and grounding them in solid business principles. My journey in tech began in my hometown, and I'm eager to leverage my education to build innovative web solutions that drive business success.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          you can contact me on{' '}
+          <a href="https://twitter.com/mikev2002">Twitter</a>.
         </p>
       </section>
 
